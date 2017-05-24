@@ -2,7 +2,7 @@
 
 ###############################################
 # Program: Scrape foodpanda website for all the restaurants in a city
-# Author: Yadunath Gupta
+# Author: Ankur Pal
 # Date: 10-12-2015
 # Version 1.0
 ###############################################
